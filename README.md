@@ -8,6 +8,8 @@ The app contains 3 different lists of elements:
 <ul><li><b>Ongoing list:</b> The user can add tasks that they started but are still not finished.</li></ul>
 <ul><li><b>Done list:</b> The user can add tasks that are already done.</li></ul>
 
+The user can add "cards" to any list as they wish, and later on delete them. Also, the user can  delete those cards once they're not necessary anymore. This app allows the user to improve their project and time management.
+
 # Functionalities
 The app contains various functionalities, such as:
 
